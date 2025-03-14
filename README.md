@@ -8,7 +8,8 @@ A fun and interactive **Snake Game** built with **JavaScript**. The project was 
 - **Game Over Handling:** Restart or quit after colliding with walls or the snake's own body  
 - **Interactive Design:** Smooth gameplay with responsive controls  
 - **Explosion Effect:** Every time the snake bites the apple, an explosion effect is displayed  
-- **Dynamic Page Color Change:** The background color of the page changes each time the snake eats an apple, adding variety to the gameplay  
+- **Dynamic Page Color Change:** The background color of the page changes each time the snake eats an apple, adding variety to the gameplay
+- **Apple Movement Speed:** The apple moves slower than the snake, making the game more challenging and fun to play  
 
 ## 🛠️ Tech Stack  
 - **Frontend:** JavaScript, HTML, CSS  
