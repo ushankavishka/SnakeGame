@@ -17,11 +17,11 @@ A fun and interactive **Snake Game** built with **JavaScript**. The project was 
 ## 📸 Screenshots  
 | Game Screen |
 |-------------|
-| ![Game](screenshots/gameplay.png) |
+| ![Game](snake_game/screenshots/gameplay.png) |
 
 ## 🎬 Video Demo  
 Watch the game in action:  
-[View Video: Snake Game Demo](screenshots/snake-game-demo.mp4)
+[View Video: Snake Game Demo](screenshots/gameplay.mp4)
 
 ## 🎯 How to Use  
 1️⃣ **Clone the Repository**  
