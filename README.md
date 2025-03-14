@@ -17,7 +17,7 @@ A fun and interactive **Snake Game** built with **JavaScript**. The project was 
 ## 📸 Screenshots  
 | Game Screen |
 |-------------|
-| ![Game](screenshots/gameplay.png) |
+| ![Game](SnakeGame/screenshots/gameplay.png) |
 
 ## 🎬 Video Demo  
 Watch the game in action:  
